@@ -1,0 +1,6 @@
+import cn.hutool.core.util.ModifierUtil;
+public class FunctionUse4994 {
+public void funcUse() {
+ModifierUtil modifierutil = new ModifierUtil();
+}
+}
